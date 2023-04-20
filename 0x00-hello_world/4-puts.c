@@ -1,10 +1,9 @@
 #include <stdio.h>
-/* main is a function in c */
-/* return zero if successful */
+/* main - is program that prints a line when used with puts function in c */
+/* return 0 if successful */
 
 int main(void)
 {
-   /* my first program in C */
-   puts("\"Programming is like building a multilingual puzzle");
-   return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
